@@ -1,2 +1,3 @@
-# ghost-export-converter
-Converting Ghost JSON Export and Import it Somewhere Else (e.g. Wordpress, Write.as)
+# Ghost to X Converter
+
+Some simple scripts to convert the Ghost JSON Export and import the content somewhere else (e.g. Wordpress, Write.as).
